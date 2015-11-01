@@ -1,1 +1,2 @@
-# spotApp 
+# spotApp
+Hello world.
